@@ -14,6 +14,7 @@ All notable changes to this skill will be documented in this file.
 ### 文档完善
 
 - 同步更新 `README.md`、`TASKS.md` 和 `DECISIONS.md`，记录本次从算法/调度类样稿进一步抽取出的架构转译规则
+- 中性化历史记录中的外部样稿来源表述，避免保留客户来源痕迹
 
 ## [1.5.2] - 2026-05-28
 
@@ -56,7 +57,7 @@ All notable changes to this skill will be documented in this file.
 
 ### 文档完善
 
-- 同步更新 `README.md`、`TASKS.md` 和 `DECISIONS.md`，记录本次基于客户参考材料形成的全链路调整
+- 同步更新 `README.md`、`TASKS.md` 和 `DECISIONS.md`，记录本次基于外部参考样稿形成的全链路调整
 
 ## [1.4.4] - 2026-05-28
 
@@ -69,7 +70,7 @@ All notable changes to this skill will be documented in this file.
 
 ### 文档完善
 
-- 同步更新 `README.md`、`TASKS.md` 和 `DECISIONS.md`，记录基于客户飞书初稿与专利清单复盘形成的交底书表达调整
+- 同步更新 `README.md`、`TASKS.md` 和 `DECISIONS.md`，记录基于外部交底样稿与方案清单复盘形成的交底书表达调整
 
 ## [1.4.3] - 2026-05-27
 
@@ -86,7 +87,7 @@ All notable changes to this skill will be documented in this file.
 
 ### 文档完善
 
-- 同步更新 `README.md`、`TASKS.md` 和 `DECISIONS.md`，记录本次基于客户飞书交底稿复盘形成的流程调整
+- 同步更新 `README.md`、`TASKS.md` 和 `DECISIONS.md`，记录本次基于外部交底样稿复盘形成的流程调整
 
 ## [1.4.2] - 2026-04-06
 
